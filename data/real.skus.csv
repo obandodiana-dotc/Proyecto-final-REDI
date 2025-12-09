@@ -1,4 +1,0 @@
-sku_name,annual_demand,order_cost,holding_cost,lead_time_mean,policy
-Sneaker A,12000,50,16,7,EOQ
-Sneaker B,8000,40,12,5,JIT
-Boot C,5000,60,18,10,MINMAX
